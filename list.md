@@ -225,12 +225,14 @@ Saahiil | Pizza
 
 Alex Sverenyak | Borsch
 
+<<<<<<< HEAD
 Christelle | Macarons
 
 Federico | Steak frites
 
 Victor | Corned Beef
-
+=======
 Tenzing Salaka | Momo
+>>>>>>> food-momo
 
-Tiffany Hatzidimitriu | Souvlaki
+Karen Franco | ceviche
